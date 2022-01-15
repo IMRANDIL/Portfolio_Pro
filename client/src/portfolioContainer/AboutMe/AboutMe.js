@@ -21,7 +21,7 @@ function AboutMe(props) {
                 'Full Stack Web and Mobile Development',
                 'Interactive Front End as per the design',
                 'React and React Native',
-                'Buiding REST and GraphQl API',
+                'Building REST and GraphQl API',
                 'Managing DataBases',
                 'Cloud Engineering'
             ],
