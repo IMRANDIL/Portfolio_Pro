@@ -20,7 +20,7 @@ function Profile() {
                             <a href="https://twitter.com/000ADIL" target="_blank" rel="noopener noreferrer">
                                 <i className="fa fa-twitter"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/ali-imran-adil-65a21842/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.linkedin.com/in/%E2%9C%A8ali-imran-adil-65a21842/" target="_blank" rel="noopener noreferrer">
                                 <i className="fa fa-linkedin-square"></i>
                             </a>
                             <a href="https://github.com/IMRANDIL" target="_blank" rel="noopener noreferrer">
